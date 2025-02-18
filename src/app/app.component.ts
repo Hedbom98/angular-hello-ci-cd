@@ -14,7 +14,7 @@ export class AppComponent implements OnInit {
   title = 'hello-ci-cd';
 
   domain: string = '';
-  myself: string = 'Mattias';
+  myself: string = 'Jacob';
 
 
   ngOnInit() {
